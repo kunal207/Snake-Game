@@ -4,7 +4,7 @@ Modules used in game are Time Module and Turtle Module.
 
 ## Play
 
-### Download or clone the repo
+### Download or clone the repo & run the command
 
 ```
 $ python snake.py
